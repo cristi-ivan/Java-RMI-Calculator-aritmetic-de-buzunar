@@ -25,6 +25,6 @@ Java-RMI-Calculator-aritmetic-de-buzunar
 - citire (valoarea memoriei devine operandul curent)
 - stergere (valoarea memoriei este (re)initializata cu 0)
 
-## Informartii suplimentare
+## Informartii suplimentare:
 
   Aplicatia permite utilizatorului sa aleaga operatii pe care ii va invoca pe server, afisand rezultatele (sau eventualele erori). Proiectul implementeaza un meniu simplu (in mod text) ce afiseaza toate optiunile disponibile iar utilizatorul poate selecta o operatie.
