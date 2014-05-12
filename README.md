@@ -15,7 +15,7 @@ Java-RMI-Calculator-aritmetic-de-buzunar
 ## Stare:
   Calculatorul mentine starea sa (rezultatul curent) pentru fiecare operatie pe care o executa. Initial, rezultatul curent este zero si acesta este afectat de fiecare operatie invocata de utilizator (inclusiv de operatiile care lucreaza cu memoria—vezi mai jos). In cazul an o operatie genereaza o eroare (cum ar fi ampartirea la zero), rezultatul curent va reprezenta acest lucru printr-o valoare non-numerica.
   
-## Memorie
+## Memorie:
 
   Se considera ca modelul implementat ofera memorie, asupra careia se pot face urmatoarele operatii: 
   
